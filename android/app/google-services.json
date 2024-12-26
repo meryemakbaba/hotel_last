@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662263115646",
+    "project_id": "hotel-b4e73",
+    "storage_bucket": "hotel-b4e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662263115646:android:8e2df235089af109428d2f",
+        "android_client_info": {
+          "package_name": "com.example.serenadepalace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCroM0-Ik24bU9CvQlUH53AotlmsJ-4vwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
